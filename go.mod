@@ -2,7 +2,7 @@ module github.com/nektos/act go 1.20
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
-	github.com/Masterminds/semver v3.3.1
+	github.com/Masterminds/semver/v3 v3.3.1
 	github.com/adrg/xdg v0.5.3
 	github.com/andreaskoch/go-fswatch v1.0.0
 	github.com/creack/pty v1.1.24
